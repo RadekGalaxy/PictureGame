@@ -3,6 +3,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.io.Serializable;
 import java.util.HashMap;
+// Test
+
 
 public class MapaSveta extends HashMap<Integer, Lokalita> implements Serializable {
 	private int zacatek = 4; 
